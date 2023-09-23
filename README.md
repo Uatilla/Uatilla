@@ -26,7 +26,7 @@ SMALL ICONS
   
 ### 42 Common Core
 
-- [Libft](https://github.com/Uatilla/42Porto_Libft) -> This project is about coding a C library. It will contain a lot of general purpose functions your programs will rely upon.
+- [Libft](https://github.com/Uatilla/42Porto_Libft) -> This project is about coding a C library. It will contain a lot of general-purpose functions your programs will rely upon.
 - [Ft_printf](https://github.com/Uatilla/42Porto_Ft_printf) -> Because ft_putnbr() and ft_putstr() aren't enough.
 - [Get_next_line](https://github.com/Uatilla/42Porto_Get_next_line) -> Reading a line from a fd is way too tedious.
 - [Minitalk](https://github.com/Uatilla/42Porto_Minitalk) -> The purpose of this project is to code a small data exchange program using UNIX signals.
@@ -35,8 +35,12 @@ SMALL ICONS
 
 <div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## Skills
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,python,git,github,bash,linux,vim,vscode,sketchup,sql" />
+  </a>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uatilla&show_icons=true&locale=en&layout=compact" alt="uatilla" /></p>
 
