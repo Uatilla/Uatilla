@@ -16,22 +16,24 @@ SMALL ICONS
 
 - 👋 I'm `Uatilla Viana Almeida`.
 - 🌱 I'm currently studying Common Core at [**42 Porto**](https://www.42porto.com) after successfully completing the Piscine.
-- 👀 I'm interested in `Bitcoin`, `Games` and `Sports` of all kinds.
-- 🚀 Additionally, I have an interest in `AI`, `Python`, `Data Analysis` and `Project Management`.
+- 👀 I'm interested in `Bitcoin`, `Macroeconomy`, `Adventure` and `Sports` of all kinds.
+- 🚀 Additionally, I have an interest in `Blockchain`, `Python`, `Data Analysis` and `Machine Learning`.
 - 📫 You can reach me on [**LinkedIn**](https://www.linkedin.com/in/uatilla/).
-- 🤔 Feeling amazing about how AI can help our society.
+- 🤔 Feeling amazing about how the blockchain technology will change our lives.
 
 ### 42 Piscine Bootcamp
 - [Piscine](https://github.com/Uatilla/42Porto_Piscine) -> 26 days 42 school bootcamp.
   
 ### 42 Common Core
 
-- [Libft](https://github.com/Uatilla/42Porto_Libft) -> This project is about coding a C library. It will contain a lot of general-purpose functions your programs will rely upon.
-- [Ft_printf](https://github.com/Uatilla/42Porto_Ft_printf) -> Because ft_putnbr() and ft_putstr() aren't enough.
-- [Get_next_line](https://github.com/Uatilla/42Porto_Get_next_line) -> Reading a line from a fd is way too tedious.
-- [Minitalk](https://github.com/Uatilla/42Porto_Minitalk) -> The purpose of this project is to code a small data exchange program using UNIX signals.
-- [Push_Swap](https://github.com/Uatilla/42Porto_Push_swap) -> Because Swap_push isn’t as natural.
-- [FdF](https://github.com/Uatilla/42Porto_FdF) -> Wireframe model (in progress..).
+- [Libft](https://github.com/Uatilla/42Porto_Libft) -> Development of a custom C library containing essential functions often used in other 42 project and beyond.
+- [Ft_printf](https://github.com/Uatilla/42Porto_Ft_printf) -> Build you own program that manages formatting and string manipulation by creating your own version of the printf function in C.
+- [Get_next_line](https://github.com/Uatilla/42Porto_Get_next_line) -> Simplify the process of reading input from file descriptors with a function that efficiently handles line-by-line input/output operations.
+- [Minitalk](https://github.com/Uatilla/42Porto_Minitalk) -> Explore inter-process communication using UNIX signals as you develop a small client-server messaging system.
+- [Push_Swap](https://github.com/Uatilla/42Porto_Push_swap) -> Dive into sorting algorithms and optimization strategies by designing a program to efficiently sort a stack of integers using limited operations.
+- [FdF](https://github.com/Uatilla/42Porto_FdF) -> Experience basic 3D graphics rendering by creating wirefram models for 3D maps.
+- [Philosophers](https://github.com/Uatilla/42Porto_Philosophers) -> Confront the dinning philosophers problem using threads and synchronization techniques.
+- [Minishell](https://github.com/Uatilla/42Porto_Minishell) -> Journey to build your own UNIX shell from scratch, focusing on user interaction and command execution. (in progress..).
 
 
 <div align="center">
