@@ -21,20 +21,21 @@ SMALL ICONS
 - 📫 You can reach me on [**LinkedIn**](https://www.linkedin.com/in/uatilla/).
 - 🤔 Feeling amazing about how the blockchain technology will change our lives.
 
-### 42 Piscine Bootcamp
-- [Piscine](https://github.com/Uatilla/42Porto_Piscine) -> 26 days 42 school bootcamp.
   
 ### 42 Common Core
 
-- [Libft](https://github.com/Uatilla/42Porto_Libft) -> Development of a custom C library containing essential functions often used in other 42 project and beyond.
-- [Ft_printf](https://github.com/Uatilla/42Porto_Ft_printf) -> Build you own program that manages formatting and string manipulation by creating your own version of the printf function in C.
-- [Get_next_line](https://github.com/Uatilla/42Porto_Get_next_line) -> Simplify the process of reading input from file descriptors with a function that efficiently handles line-by-line input/output operations.
-- [Minitalk](https://github.com/Uatilla/42Porto_Minitalk) -> Explore inter-process communication using UNIX signals as you develop a small client-server messaging system.
-- [Push_Swap](https://github.com/Uatilla/42Porto_Push_swap) -> Dive into sorting algorithms and optimization strategies by designing a program to efficiently sort a stack of integers using limited operations.
-- [FdF](https://github.com/Uatilla/42Porto_FdF) -> Experience basic 3D graphics rendering by creating wirefram models for 3D maps.
+- [MiniRT](https://github.com/Uatilla/42Porto_MiniRT) -> Build my first RayTracer render using MiniLibX.
+- [Minishell](https://github.com/Uatilla/42Porto_Minishell) -> Journey to build your own UNIX shell from scratch, focusing on user interaction and command execution.
 - [Philosophers](https://github.com/Uatilla/42Porto_Philosophers) -> Confront the dinning philosophers problem using threads and synchronization techniques.
-- [Minishell](https://github.com/Uatilla/42Porto_Minishell) -> Journey to build your own UNIX shell from scratch, focusing on user interaction and command execution. (in progress..).
+- [FdF](https://github.com/Uatilla/42Porto_FdF) -> Experience basic 3D graphics rendering by creating wirefram models for 3D maps.
+- [Push_Swap](https://github.com/Uatilla/42Porto_Push_swap) -> Dive into sorting algorithms and optimization strategies by designing a program to efficiently sort a stack of integers using limited operations.
+- [Minitalk](https://github.com/Uatilla/42Porto_Minitalk) -> Explore inter-process communication using UNIX signals as you develop a small client-server messaging system.
+- [Get_next_line](https://github.com/Uatilla/42Porto_Get_next_line) -> Simplify the process of reading input from file descriptors with a function that efficiently handles line-by-line input/output operations.
+- [Ft_printf](https://github.com/Uatilla/42Porto_Ft_printf) -> Build you own program that manages formatting and string manipulation by creating your own version of the printf function in C.
+- [Libft](https://github.com/Uatilla/42Porto_Libft) -> Development of a custom C library containing essential functions often used in other 42 project and beyond.
 
+### 42 Piscine Bootcamp
+- [Piscine](https://github.com/Uatilla/42Porto_Piscine) -> 26 days 42 school bootcamp.
 
 <div align="center">
 
