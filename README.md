@@ -24,6 +24,11 @@ SMALL ICONS
   
 ### 42 Common Core
 
+- **Ft_Transcendence**-> In progress...
+    - [Blockchain Module](https://github.com/ft-transcendence-2025/Blockchain) -> My first experience with Blockchain and Web3 world, build a smartcontract and interacting with it through APIs.
+- **Inception** -> To be published...
+- [Ft_IRC](https://github.com/AijaRe/42Porto_ft_irc) -> Group project to build a server that replicates the IRC protocol.
+- **CPPs Modules** -> To be published...
 - [MiniRT](https://github.com/Uatilla/42Porto_MiniRT) -> Build my first RayTracer render using MiniLibX.
 - [Minishell](https://github.com/Uatilla/42Porto_Minishell) -> Journey to build your own UNIX shell from scratch, focusing on user interaction and command execution.
 - [Philosophers](https://github.com/Uatilla/42Porto_Philosophers) -> Confront the dinning philosophers problem using threads and synchronization techniques.
