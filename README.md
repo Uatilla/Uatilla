@@ -15,7 +15,7 @@ SMALL ICONS
 ## About me
 
 - 👋 I'm `Uatilla Viana Almeida`.
-- 🌱 I'm currently studying Common Core at [**42 Porto**](https://www.42porto.com) after successfully completing the Piscine.
+- 🌱 I'm a 42 Cadet at [**42 Porto**](https://www.42porto.com) after successfully completing the Common Core and the Piscine Bootcamp.
 - 👀 I'm interested in `Bitcoin`, `Macroeconomy`, `Adventure` and `Sports` of all kinds.
 - 🚀 Additionally, I have an interest in `Blockchain`, `Python`, `Data Analysis` and `Machine Learning`.
 - 📫 You can reach me on [**LinkedIn**](https://www.linkedin.com/in/uatilla/).
