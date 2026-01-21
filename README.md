@@ -24,7 +24,7 @@ SMALL ICONS
   
 ### 42 Common Core
 
-- **Ft_Transcendence**-> In progress...
+- **Ft_Transcendence**->
     - [Blockchain Module](https://github.com/ft-transcendence-2025/Blockchain) -> My first experience with Blockchain and Web3 world, build a smartcontract and interacting with it through APIs.
 - **Inception** -> To be published...
 - [Ft_IRC](https://github.com/AijaRe/42Porto_ft_irc) -> Group project to build a server that replicates the IRC protocol.
