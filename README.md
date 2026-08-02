@@ -22,6 +22,9 @@ SMALL ICONS
 - 🤔 Feeling amazing about how the blockchain technology will change our lives.
 
   
+### 42 Advanced
+- [Python Piscine](https://github.com/Uatilla/Python_Piscine) → Python for Data Science specialization covering NumPy, Pandas, Matplotlib, OOP, closures, decorators and dataclasses.
+  
 ### 42 Common Core
 
 - **Ft_Transcendence**->
