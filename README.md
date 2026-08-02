@@ -13,7 +13,7 @@
 - 👋 I'm `Uatilla Viana Almeida`.
 - 🌱 42 Cadet at [**42 Porto**](https://www.42porto.com) – Common Core completed.
 - 👀 Interested in `Bitcoin`, `Macroeconomy`, `Adventure` and `Sports`.
-- 🚀 Also exploring `Blockchain`, `Python`, `Data Analysis` and `Machine Learning`.
+- 🚀 Also exploring `Blockchain`, `Python`, `Data Science` and `Machine Learning`.
 - 📫 Reach me on [**LinkedIn**](https://www.linkedin.com/in/uatilla/).
 
 ### 42 Advanced
